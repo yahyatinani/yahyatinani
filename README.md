@@ -2,7 +2,7 @@
 
 ![Profile view](https://komarev.com/ghpvc/?username=whyrising)
 
-Hi! My name is Yahya. I'm on a mission to elevate my craft as a software engineer.
+Hi! I'm Yahya, a passionate software engineer with a knack for building quality stuff that solves a problem and a penchant for elevating my craft.
 
 - 💬 Talk to me about Software, Android, Kotlin, Open source
 
