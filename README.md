@@ -12,4 +12,4 @@ Java · Spring Boot · PostgreSQL · Docker · GitHub Actions
 
 *Occasional drawing enthusiast.*
 
-<img src="./art/drawing.png" width=150>
+<img src="./art/drawing.png" width=150 alt="on of my drawings">
