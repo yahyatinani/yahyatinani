@@ -10,4 +10,5 @@ Java · Spring Boot · PostgreSQL · Docker · GitHub Actions
 
 ![Profile view](https://komarev.com/ghpvc/?username=whyrising)
 
+*Occasional drawing enthusiast.*
 <img src="./art/drawing.png" width=400>
