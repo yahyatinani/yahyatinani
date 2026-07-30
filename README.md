@@ -6,7 +6,7 @@
 Java · Spring Boot · PostgreSQL · Docker · GitHub Actions
 
 ### Contact
-📫 yahyatinani@gmail.com | 💼 [linkedin.com/in/yahyatinani](www.linkedin.com/in/yahyatinani)
+📫 yahyatinani@gmail.com | 💼 [linkedin.com/in/yahyatinani](https://linkedin.com/in/yahyatinani)
 
 ![Profile view](https://komarev.com/ghpvc/?username=whyrising)
 
