@@ -6,4 +6,4 @@
 Android · Kotlin Multiplatform · Jetpack Compose · Coroutines · Flow · Ktor · SQLDelight· Docker · GitHub Actions
 
 ### Contact
-📫 yahyatinani@gmail.com | 💼 [linkedin.com/in/yahyatinani](https://linkedin.com/in/yahyatinani)
+💼 [linkedin.com/in/yahyatinani](https://linkedin.com/in/yahyatinani)
