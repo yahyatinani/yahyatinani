@@ -1,6 +1,6 @@
 ## Hi(👋), I'm Yahya
 
-**Android & Kotlin Multiplatform (KMP) Engineer | Jetpack Compose | Open-Source Author (Maven Central, F-Droid) | Remote (EMEA / UTC+1)**
+**Android & Kotlin Multiplatform (KMP) Engineer | Jetpack Compose | OSS Author (Maven Central, F-Droid) | Remote (EMEA / UTC+1)**
 
 ### Stack
 Android · Kotlin Multiplatform · Jetpack Compose · Coroutines · Flow · Ktor · SQLDelight· Docker · GitHub Actions
