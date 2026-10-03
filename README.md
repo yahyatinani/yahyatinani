@@ -1,9 +1,9 @@
 ## Hi(👋), I'm Yahya
 
-**Backend Developer | Master's in Computer Science | Relocating**
+**Android & Kotlin Multiplatform (KMP) Engineer | Jetpack Compose | Open-Source Author (Maven Central, F-Droid) | Remote (EMEA / UTC+1)**
 
 ### Stack
-Kotlin · Java · Spring Boot · PostgreSQL · Docker · GitHub Actions
+Android · Kotlin Multiplatform · Jetpack Compose · Coroutines · Flow · Ktor · SQLDelight· Docker · GitHub Actions
 
 ### Contact
 📫 yahyatinani@gmail.com | 💼 [linkedin.com/in/yahyatinani](https://linkedin.com/in/yahyatinani)
