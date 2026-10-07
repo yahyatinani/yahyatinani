@@ -5,5 +5,5 @@
 ### Stack
 Android · Kotlin Multiplatform · Jetpack Compose · Coroutines · Flow · Ktor · SQLDelight· Docker · GitHub Actions
 
-### Contact
-💼 [linkedin.com/in/yahyatinani](https://linkedin.com/in/yahyatinani)
+
+Fun fact: I build LineageOS from source for fun...
