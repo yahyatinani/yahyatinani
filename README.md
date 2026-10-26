@@ -6,4 +6,4 @@
 Android · Kotlin Multiplatform · Jetpack Compose · Coroutines · Flow · Ktor · SQLDelight· Docker · GitHub Actions
 
 
-Fun fact: I build LineageOS from source. For fun. 🤦‍♂️
+I build LineageOS from source. For fun. 🤦‍♂️
